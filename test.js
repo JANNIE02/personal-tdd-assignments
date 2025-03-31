@@ -8,10 +8,10 @@ describe('Multiply Function', () => {
     });
 });
 
-/*it('should return 4 when multiplying 2 by 2', () => {
+it('should return 4 when multiplying 2 by 2', () => {
     expect(multiply(2, 2)).to.equal(4);
 });
-it('should return 9 when multiplying 3 and 3', () => {
+/*it('should return 9 when multiplying 3 and 3', () => {
     expect(multiply(3, 3)).to.equal(9);
 });
 
